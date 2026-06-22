@@ -1,0 +1,54 @@
+company,year,sector,spend,spend_m
+Apple,2020,Tech/AI,9420000.0,9.42
+Apple,2021,Tech/AI,7400000.0,7.4
+Apple,2022,Tech/AI,12930000.0,12.93
+Apple,2023,Tech/AI,12010000.0,12.01
+Apple,2024,Tech/AI,9100000.0,9.1
+Apple,2025,Tech/AI,19740000.0,19.74
+Boeing,2020,Defense/Aerospace,15790000.0,15.79
+Boeing,2021,Defense/Aerospace,16632500.0,16.63
+Boeing,2022,Defense/Aerospace,16200000.0,16.2
+Boeing,2023,Defense/Aerospace,16860000.0,16.86
+Boeing,2024,Defense/Aerospace,13640000.0,13.64
+Boeing,2025,Defense/Aerospace,12620000.0,12.62
+GE Aerospace,2020,Defense/Aerospace,13015000.0,13.02
+GE Aerospace,2021,Defense/Aerospace,8049000.0,8.05
+GE Aerospace,2022,Defense/Aerospace,6865000.0,6.86
+GE Aerospace,2023,Defense/Aerospace,4095000.0,4.1
+GE Aerospace,2024,Defense/Aerospace,5244000.0,5.24
+GE Aerospace,2025,Defense/Aerospace,6064000.0,6.06
+Goldman Sachs,2020,Finance,3337000.0,3.34
+Goldman Sachs,2021,Finance,2530000.0,2.53
+Goldman Sachs,2022,Finance,2360000.0,2.36
+Goldman Sachs,2023,Finance,4690000.0,4.69
+Goldman Sachs,2024,Finance,2740000.0,2.74
+Goldman Sachs,2025,Finance,3960000.0,3.96
+Google,2020,Tech/AI,8510000.0,8.51
+Google,2021,Tech/AI,10375000.0,10.38
+Google,2022,Tech/AI,11520000.0,11.52
+Google,2023,Tech/AI,12910000.0,12.91
+Google,2024,Tech/AI,13560000.0,13.56
+Google,2025,Tech/AI,14265000.0,14.26
+JPMorgan Chase,2020,Finance,2810000.0,2.81
+Lockheed Martin,2020,Defense/Aerospace,17950810.0,17.95
+Lockheed Martin,2021,Defense/Aerospace,23811911.0,23.81
+Lockheed Martin,2022,Defense/Aerospace,29328465.0,29.33
+Lockheed Martin,2023,Defense/Aerospace,15934565.0,15.93
+Lockheed Martin,2024,Defense/Aerospace,13973164.0,13.97
+Lockheed Martin,2025,Defense/Aerospace,21496909.0,21.5
+Microsoft,2020,Tech/AI,11964000.0,11.96
+Microsoft,2021,Tech/AI,13005000.0,13.0
+Microsoft,2022,Tech/AI,21810000.0,21.81
+Microsoft,2023,Tech/AI,11102000.0,11.1
+Microsoft,2024,Tech/AI,11444000.0,11.44
+Microsoft,2025,Tech/AI,10810000.0,10.81
+NVIDIA,2022,Tech/AI,90000.0,0.09
+NVIDIA,2023,Tech/AI,510000.0,0.51
+NVIDIA,2024,Tech/AI,640000.0,0.64
+NVIDIA,2025,Tech/AI,9240000.0,9.24
+Qualcomm,2020,Tech/AI,13740000.0,13.74
+Qualcomm,2021,Tech/AI,17410000.0,17.41
+Qualcomm,2022,Tech/AI,15490000.0,15.49
+Qualcomm,2023,Tech/AI,12830000.0,12.83
+Qualcomm,2024,Tech/AI,13490000.0,13.49
+Qualcomm,2025,Tech/AI,10280000.0,10.28

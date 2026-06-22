@@ -1,0 +1,2837 @@
+company,sector,year,code,code_label,spend
+Google,Tech/AI,2020,TRD,Trade Policy,30000.0
+Google,Tech/AI,2020,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2020,TEC,Technology & AI,30000.0
+Google,Tech/AI,2020,TRD,Trade Policy,60000.0
+Google,Tech/AI,2020,TEC,Technology & AI,20000.0
+Google,Tech/AI,2020,TEC,Technology & AI,45000.0
+Google,Tech/AI,2020,TEC,Technology & AI,45000.0
+Google,Tech/AI,2020,TRD,Trade Policy,1800000.0
+Google,Tech/AI,2020,FOR,Foreign Policy,1800000.0
+Google,Tech/AI,2020,TEC,Technology & AI,1800000.0
+Google,Tech/AI,2020,SCI,Science & Research,1800000.0
+Google,Tech/AI,2020,TEC,Technology & AI,20000.0
+Google,Tech/AI,2020,TEC,Technology & AI,45000.0
+Google,Tech/AI,2020,TEC,Technology & AI,30000.0
+Google,Tech/AI,2020,TRD,Trade Policy,30000.0
+Google,Tech/AI,2020,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2020,TEC,Technology & AI,20000.0
+Google,Tech/AI,2020,TEC,Technology & AI,45000.0
+Google,Tech/AI,2020,TRD,Trade Policy,60000.0
+Google,Tech/AI,2020,TEC,Technology & AI,20000.0
+Google,Tech/AI,2020,TRD,Trade Policy,1690000.0
+Google,Tech/AI,2020,FOR,Foreign Policy,1690000.0
+Google,Tech/AI,2020,TEC,Technology & AI,1690000.0
+Google,Tech/AI,2020,SCI,Science & Research,1690000.0
+Google,Tech/AI,2020,TEC,Technology & AI,10000.0
+Google,Tech/AI,2020,TEC,Technology & AI,30000.0
+Google,Tech/AI,2020,TRD,Trade Policy,30000.0
+Google,Tech/AI,2020,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2020,TEC,Technology & AI,45000.0
+Google,Tech/AI,2020,TEC,Technology & AI,20000.0
+Google,Tech/AI,2020,FOR,Foreign Policy,1930000.0
+Google,Tech/AI,2020,TEC,Technology & AI,1930000.0
+Google,Tech/AI,2020,SCI,Science & Research,1930000.0
+Google,Tech/AI,2020,TRD,Trade Policy,1930000.0
+Google,Tech/AI,2020,TRD,Trade Policy,60000.0
+Google,Tech/AI,2020,TEC,Technology & AI,10000.0
+Google,Tech/AI,2020,TEC,Technology & AI,20000.0
+Google,Tech/AI,2020,TEC,Technology & AI,30000.0
+Google,Tech/AI,2020,TEC,Technology & AI,20000.0
+Google,Tech/AI,2020,TRD,Trade Policy,30000.0
+Google,Tech/AI,2020,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2020,TRD,Trade Policy,60000.0
+Google,Tech/AI,2020,TEC,Technology & AI,20000.0
+Google,Tech/AI,2020,FOR,Foreign Policy,2110000.0
+Google,Tech/AI,2020,TEC,Technology & AI,2110000.0
+Google,Tech/AI,2020,SCI,Science & Research,2110000.0
+Google,Tech/AI,2020,TRD,Trade Policy,2110000.0
+Google,Tech/AI,2020,TEC,Technology & AI,45000.0
+Google,Tech/AI,2020,TEC,Technology & AI,20000.0
+Google,Tech/AI,2020,TEC,Technology & AI,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,20000.0
+Google,Tech/AI,2021,TRD,Trade Policy,30000.0
+Google,Tech/AI,2021,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,20000.0
+Google,Tech/AI,2021,TEC,Technology & AI,45000.0
+Google,Tech/AI,2021,TEC,Technology & AI,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,50000.0
+Google,Tech/AI,2021,FOR,Foreign Policy,2690000.0
+Google,Tech/AI,2021,TEC,Technology & AI,2690000.0
+Google,Tech/AI,2021,SCI,Science & Research,2690000.0
+Google,Tech/AI,2021,TRD,Trade Policy,2690000.0
+Google,Tech/AI,2021,TEC,Technology & AI,45000.0
+Google,Tech/AI,2021,TEC,Technology & AI,20000.0
+Google,Tech/AI,2021,TRD,Trade Policy,30000.0
+Google,Tech/AI,2021,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,45000.0
+Google,Tech/AI,2021,TEC,Technology & AI,50000.0
+Google,Tech/AI,2021,TRD,Trade Policy,2090000.0
+Google,Tech/AI,2021,FOR,Foreign Policy,2090000.0
+Google,Tech/AI,2021,TEC,Technology & AI,2090000.0
+Google,Tech/AI,2021,SCI,Science & Research,2090000.0
+Google,Tech/AI,2021,TEC,Technology & AI,20000.0
+Google,Tech/AI,2021,TRD,Trade Policy,30000.0
+Google,Tech/AI,2021,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,45000.0
+Google,Tech/AI,2021,TRD,Trade Policy,2610000.0
+Google,Tech/AI,2021,FOR,Foreign Policy,2610000.0
+Google,Tech/AI,2021,TEC,Technology & AI,2610000.0
+Google,Tech/AI,2021,SCI,Science & Research,2610000.0
+Google,Tech/AI,2021,TEC,Technology & AI,50000.0
+Google,Tech/AI,2021,TRD,Trade Policy,30000.0
+Google,Tech/AI,2021,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,45000.0
+Google,Tech/AI,2021,TEC,Technology & AI,2210000.0
+Google,Tech/AI,2021,SCI,Science & Research,2210000.0
+Google,Tech/AI,2021,FOR,Foreign Policy,2210000.0
+Google,Tech/AI,2021,TRD,Trade Policy,2210000.0
+Google,Tech/AI,2021,TEC,Technology & AI,30000.0
+Google,Tech/AI,2021,TEC,Technology & AI,50000.0
+Google,Tech/AI,2022,TEC,Technology & AI,30000.0
+Google,Tech/AI,2022,TRD,Trade Policy,30000.0
+Google,Tech/AI,2022,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2022,TEC,Technology & AI,45000.0
+Google,Tech/AI,2022,TEC,Technology & AI,50000.0
+Google,Tech/AI,2022,TRD,Trade Policy,2960000.0
+Google,Tech/AI,2022,FOR,Foreign Policy,2960000.0
+Google,Tech/AI,2022,TEC,Technology & AI,2960000.0
+Google,Tech/AI,2022,SCI,Science & Research,2960000.0
+Google,Tech/AI,2022,TEC,Technology & AI,20000.0
+Google,Tech/AI,2022,TRD,Trade Policy,30000.0
+Google,Tech/AI,2022,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2022,TEC,Technology & AI,20000.0
+Google,Tech/AI,2022,TEC,Technology & AI,45000.0
+Google,Tech/AI,2022,TEC,Technology & AI,50000.0
+Google,Tech/AI,2022,TRD,Trade Policy,2770000.0
+Google,Tech/AI,2022,FOR,Foreign Policy,2770000.0
+Google,Tech/AI,2022,TEC,Technology & AI,2770000.0
+Google,Tech/AI,2022,SCI,Science & Research,2770000.0
+Google,Tech/AI,2022,TEC,Technology & AI,45000.0
+Google,Tech/AI,2022,TRD,Trade Policy,30000.0
+Google,Tech/AI,2022,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2022,TRD,Trade Policy,2470000.0
+Google,Tech/AI,2022,FOR,Foreign Policy,2470000.0
+Google,Tech/AI,2022,TEC,Technology & AI,2470000.0
+Google,Tech/AI,2022,SCI,Science & Research,2470000.0
+Google,Tech/AI,2022,TEC,Technology & AI,20000.0
+Google,Tech/AI,2022,TEC,Technology & AI,50000.0
+Google,Tech/AI,2022,TRD,Trade Policy,30000.0
+Google,Tech/AI,2022,COM,Commerce & Export Controls,30000.0
+Google,Tech/AI,2022,TEC,Technology & AI,10000.0
+Google,Tech/AI,2022,TEC,Technology & AI,45000.0
+Google,Tech/AI,2022,TRD,Trade Policy,2720000.0
+Google,Tech/AI,2022,FOR,Foreign Policy,2720000.0
+Google,Tech/AI,2022,TEC,Technology & AI,2720000.0
+Google,Tech/AI,2022,SCI,Science & Research,2720000.0
+Google,Tech/AI,2022,TEC,Technology & AI,50000.0
+Google,Tech/AI,2023,TRD,Trade Policy,50000.0
+Google,Tech/AI,2023,COM,Commerce & Export Controls,50000.0
+Google,Tech/AI,2023,SCI,Science & Research,45000.0
+Google,Tech/AI,2023,TEC,Technology & AI,45000.0
+Google,Tech/AI,2023,TRD,Trade Policy,2820000.0
+Google,Tech/AI,2023,FOR,Foreign Policy,2820000.0
+Google,Tech/AI,2023,TEC,Technology & AI,2820000.0
+Google,Tech/AI,2023,SCI,Science & Research,2820000.0
+Google,Tech/AI,2023,TEC,Technology & AI,50000.0
+Google,Tech/AI,2023,TRD,Trade Policy,50000.0
+Google,Tech/AI,2023,COM,Commerce & Export Controls,50000.0
+Google,Tech/AI,2023,TRD,Trade Policy,50000.0
+Google,Tech/AI,2023,SCI,Science & Research,45000.0
+Google,Tech/AI,2023,TEC,Technology & AI,45000.0
+Google,Tech/AI,2023,TRD,Trade Policy,3430000.0
+Google,Tech/AI,2023,FOR,Foreign Policy,3430000.0
+Google,Tech/AI,2023,TEC,Technology & AI,3430000.0
+Google,Tech/AI,2023,SCI,Science & Research,3430000.0
+Google,Tech/AI,2023,TEC,Technology & AI,50000.0
+Google,Tech/AI,2023,SCI,Science & Research,45000.0
+Google,Tech/AI,2023,TEC,Technology & AI,45000.0
+Google,Tech/AI,2023,TRD,Trade Policy,50000.0
+Google,Tech/AI,2023,TEC,Technology & AI,50000.0
+Google,Tech/AI,2023,TEC,Technology & AI,45000.0
+Google,Tech/AI,2023,SCI,Science & Research,45000.0
+Google,Tech/AI,2023,TRD,Trade Policy,50000.0
+Google,Tech/AI,2023,COM,Commerce & Export Controls,50000.0
+Google,Tech/AI,2023,TRD,Trade Policy,2960000.0
+Google,Tech/AI,2023,FOR,Foreign Policy,2960000.0
+Google,Tech/AI,2023,TEC,Technology & AI,2960000.0
+Google,Tech/AI,2023,SCI,Science & Research,2960000.0
+Google,Tech/AI,2023,TRD,Trade Policy,50000.0
+Google,Tech/AI,2023,SCI,Science & Research,60000.0
+Google,Tech/AI,2023,TRD,Trade Policy,60000.0
+Google,Tech/AI,2023,TRD,Trade Policy,50000.0
+Google,Tech/AI,2023,COM,Commerce & Export Controls,50000.0
+Google,Tech/AI,2023,SCI,Science & Research,45000.0
+Google,Tech/AI,2023,TEC,Technology & AI,45000.0
+Google,Tech/AI,2023,TEC,Technology & AI,50000.0
+Google,Tech/AI,2023,FOR,Foreign Policy,2820000.0
+Google,Tech/AI,2023,TEC,Technology & AI,2820000.0
+Google,Tech/AI,2023,SCI,Science & Research,2820000.0
+Google,Tech/AI,2023,INT,Intelligence & Security,2820000.0
+Google,Tech/AI,2023,DEF,Defense & Military,2820000.0
+Google,Tech/AI,2023,TRD,Trade Policy,2820000.0
+Google,Tech/AI,2023,TEC,Technology & AI,45000.0
+Google,Tech/AI,2023,SCI,Science & Research,45000.0
+Google,Tech/AI,2023,TRD,Trade Policy,45000.0
+Google,Tech/AI,2024,TRD,Trade Policy,50000.0
+Google,Tech/AI,2024,SCI,Science & Research,45000.0
+Google,Tech/AI,2024,TEC,Technology & AI,45000.0
+Google,Tech/AI,2024,SCI,Science & Research,60000.0
+Google,Tech/AI,2024,TRD,Trade Policy,60000.0
+Google,Tech/AI,2024,TRD,Trade Policy,50000.0
+Google,Tech/AI,2024,TEC,Technology & AI,50000.0
+Google,Tech/AI,2024,FOR,Foreign Policy,3080000.0
+Google,Tech/AI,2024,TEC,Technology & AI,3080000.0
+Google,Tech/AI,2024,SCI,Science & Research,3080000.0
+Google,Tech/AI,2024,INT,Intelligence & Security,3080000.0
+Google,Tech/AI,2024,DEF,Defense & Military,3080000.0
+Google,Tech/AI,2024,TRD,Trade Policy,3080000.0
+Google,Tech/AI,2024,TEC,Technology & AI,45000.0
+Google,Tech/AI,2024,SCI,Science & Research,45000.0
+Google,Tech/AI,2024,TRD,Trade Policy,45000.0
+Google,Tech/AI,2024,SCI,Science & Research,60000.0
+Google,Tech/AI,2024,TRD,Trade Policy,60000.0
+Google,Tech/AI,2024,TRD,Trade Policy,60000.0
+Google,Tech/AI,2024,TEC,Technology & AI,45000.0
+Google,Tech/AI,2024,SCI,Science & Research,45000.0
+Google,Tech/AI,2024,TRD,Trade Policy,50000.0
+Google,Tech/AI,2024,TEC,Technology & AI,50000.0
+Google,Tech/AI,2024,FOR,Foreign Policy,2960000.0
+Google,Tech/AI,2024,TEC,Technology & AI,2960000.0
+Google,Tech/AI,2024,SCI,Science & Research,2960000.0
+Google,Tech/AI,2024,INT,Intelligence & Security,2960000.0
+Google,Tech/AI,2024,DEF,Defense & Military,2960000.0
+Google,Tech/AI,2024,TRD,Trade Policy,2960000.0
+Google,Tech/AI,2024,TEC,Technology & AI,45000.0
+Google,Tech/AI,2024,SCI,Science & Research,45000.0
+Google,Tech/AI,2024,TRD,Trade Policy,45000.0
+Google,Tech/AI,2024,TRD,Trade Policy,50000.0
+Google,Tech/AI,2024,SCI,Science & Research,45000.0
+Google,Tech/AI,2024,TEC,Technology & AI,45000.0
+Google,Tech/AI,2024,TRD,Trade Policy,70000.0
+Google,Tech/AI,2024,SCI,Science & Research,60000.0
+Google,Tech/AI,2024,TRD,Trade Policy,60000.0
+Google,Tech/AI,2024,TEC,Technology & AI,50000.0
+Google,Tech/AI,2024,FOR,Foreign Policy,3200000.0
+Google,Tech/AI,2024,TEC,Technology & AI,3200000.0
+Google,Tech/AI,2024,SCI,Science & Research,3200000.0
+Google,Tech/AI,2024,INT,Intelligence & Security,3200000.0
+Google,Tech/AI,2024,DEF,Defense & Military,3200000.0
+Google,Tech/AI,2024,TRD,Trade Policy,3200000.0
+Google,Tech/AI,2024,TEC,Technology & AI,45000.0
+Google,Tech/AI,2024,SCI,Science & Research,45000.0
+Google,Tech/AI,2024,TRD,Trade Policy,45000.0
+Google,Tech/AI,2024,SCI,Science & Research,45000.0
+Google,Tech/AI,2024,TEC,Technology & AI,45000.0
+Google,Tech/AI,2024,SCI,Science & Research,60000.0
+Google,Tech/AI,2024,TRD,Trade Policy,60000.0
+Google,Tech/AI,2024,TRD,Trade Policy,50000.0
+Google,Tech/AI,2024,TEC,Technology & AI,50000.0
+Google,Tech/AI,2024,TRD,Trade Policy,70000.0
+Google,Tech/AI,2024,FOR,Foreign Policy,3070000.0
+Google,Tech/AI,2024,TEC,Technology & AI,3070000.0
+Google,Tech/AI,2024,SCI,Science & Research,3070000.0
+Google,Tech/AI,2024,INT,Intelligence & Security,3070000.0
+Google,Tech/AI,2024,DEF,Defense & Military,3070000.0
+Google,Tech/AI,2024,TRD,Trade Policy,3070000.0
+Google,Tech/AI,2024,TEC,Technology & AI,45000.0
+Google,Tech/AI,2024,SCI,Science & Research,45000.0
+Google,Tech/AI,2024,TRD,Trade Policy,45000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,50000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,30000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,2394000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,2394000.0
+Microsoft,Tech/AI,2020,SCI,Science & Research,2394000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,20000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,40000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,80000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,80000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,80000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,80000.0
+Microsoft,Tech/AI,2020,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,20000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,20000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,30000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,50000.0
+Microsoft,Tech/AI,2020,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,2910000.0
+Microsoft,Tech/AI,2020,SCI,Science & Research,2910000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,2910000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,40000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,80000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,80000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,80000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,80000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,80000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,20000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,40000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,50000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2020,FOR,Foreign Policy,60000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,1880000.0
+Microsoft,Tech/AI,2020,SCI,Science & Research,1880000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,1880000.0
+Microsoft,Tech/AI,2020,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,80000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,80000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,80000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,80000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,80000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,20000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,40000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,20000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,80000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,80000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,80000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,80000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,80000.0
+Microsoft,Tech/AI,2020,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2020,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2020,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,2190000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,2190000.0
+Microsoft,Tech/AI,2020,SCI,Science & Research,2190000.0
+Microsoft,Tech/AI,2020,TRD,Trade Policy,50000.0
+Microsoft,Tech/AI,2020,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2020,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,80000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,80000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,80000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,80000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,80000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,75000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,75000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,50000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,2590000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,2590000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,2590000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,2590000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,10000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,20000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,80000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,80000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,80000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,80000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,80000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,70000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,70000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,2470000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,2470000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,2470000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,2470000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,50000.0
+Microsoft,Tech/AI,2021,FOR,Foreign Policy,60000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,20000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,90000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,50000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,20000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,2630000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,2630000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,2630000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,2630000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,90000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2021,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2021,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,2470000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,2470000.0
+Microsoft,Tech/AI,2021,SCI,Science & Research,2470000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,2470000.0
+Microsoft,Tech/AI,2021,TRD,Trade Policy,40000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2021,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2021,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,90000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,2540000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,2540000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,2540000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,2540000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,30000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,90000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,2410000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,2410000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,2410000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,2410000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,90000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,2300000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,2300000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,2300000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,2300000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,90000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2022,INT,Intelligence & Security,60000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,2540000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,2540000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,2540000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,2540000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2022,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,2410000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,2410000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,2410000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,2410000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,2300000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,2300000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,2300000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,2300000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,2540000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,2540000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,2540000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,2540000.0
+Microsoft,Tech/AI,2022,TRD,Trade Policy,2540000.0
+Microsoft,Tech/AI,2022,TEC,Technology & AI,2540000.0
+Microsoft,Tech/AI,2022,SCI,Science & Research,2540000.0
+Microsoft,Tech/AI,2022,DEF,Defense & Military,2540000.0
+Microsoft,Tech/AI,2023,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,222000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,222000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,222000.0
+Microsoft,Tech/AI,2023,DEF,Defense & Military,222000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,2220000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,2220000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,2220000.0
+Microsoft,Tech/AI,2023,DEF,Defense & Military,2220000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2023,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,60000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,2300000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,2300000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,2300000.0
+Microsoft,Tech/AI,2023,DEF,Defense & Military,2300000.0
+Microsoft,Tech/AI,2023,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,2330000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,2330000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,2330000.0
+Microsoft,Tech/AI,2023,DEF,Defense & Military,2330000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,80000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,80000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2023,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2023,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,90000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2023,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2023,TRD,Trade Policy,2120000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,2120000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,2120000.0
+Microsoft,Tech/AI,2023,DEF,Defense & Military,2120000.0
+Microsoft,Tech/AI,2023,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2023,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2024,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2024,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2024,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,90000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,2278000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,2278000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,2278000.0
+Microsoft,Tech/AI,2024,DEF,Defense & Military,2278000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2024,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2024,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,90000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,2356000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,2356000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,2356000.0
+Microsoft,Tech/AI,2024,DEF,Defense & Military,2356000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,15000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,15000.0
+Microsoft,Tech/AI,2024,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2024,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,90000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,2540000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,2540000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,2540000.0
+Microsoft,Tech/AI,2024,DEF,Defense & Military,2540000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2024,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2024,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,90000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,90000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,20000.0
+Microsoft,Tech/AI,2024,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2024,TRD,Trade Policy,2250000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,2250000.0
+Microsoft,Tech/AI,2024,SCI,Science & Research,2250000.0
+Microsoft,Tech/AI,2024,DEF,Defense & Military,2250000.0
+Microsoft,Tech/AI,2024,TEC,Technology & AI,60000.0
+NVIDIA,Tech/AI,2022,TRD,Trade Policy,90000.0
+NVIDIA,Tech/AI,2022,DEF,Defense & Military,90000.0
+NVIDIA,Tech/AI,2023,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2023,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2023,TEC,Technology & AI,80000.0
+NVIDIA,Tech/AI,2023,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2023,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2023,TEC,Technology & AI,80000.0
+NVIDIA,Tech/AI,2023,TRD,Trade Policy,30000.0
+NVIDIA,Tech/AI,2023,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2023,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2023,TEC,Technology & AI,80000.0
+NVIDIA,Tech/AI,2023,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2023,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2023,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2023,TEC,Technology & AI,80000.0
+NVIDIA,Tech/AI,2023,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2024,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2024,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2024,TEC,Technology & AI,80000.0
+NVIDIA,Tech/AI,2024,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2024,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2024,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2024,TEC,Technology & AI,80000.0
+NVIDIA,Tech/AI,2024,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2024,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2024,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2024,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2024,TEC,Technology & AI,80000.0
+NVIDIA,Tech/AI,2024,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2024,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2024,TEC,Technology & AI,80000.0
+NVIDIA,Tech/AI,2024,TRD,Trade Policy,80000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2020,SCI,Science & Research,110000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,60000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,2160000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,2160000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,90000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2020,SCI,Science & Research,110000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,90000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,1480000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,1480000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,60000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,60000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,60000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,10000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,1560000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,1560000.0
+Apple,Tech/AI,2020,SCI,Science & Research,1560000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2020,SCI,Science & Research,110000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,60000.0
+Apple,Tech/AI,2020,SCI,Science & Research,110000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,30000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,90000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,1450000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,1450000.0
+Apple,Tech/AI,2020,TEC,Technology & AI,1560000.0
+Apple,Tech/AI,2020,SCI,Science & Research,1560000.0
+Apple,Tech/AI,2020,TRD,Trade Policy,1560000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,30000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,30000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2021,SCI,Science & Research,110000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,90000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,1460000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,1460000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2021,SCI,Science & Research,110000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,30000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,90000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,30000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,1640000.0
+Apple,Tech/AI,2021,SCI,Science & Research,1640000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,1640000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,10000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2021,SCI,Science & Research,110000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,1540000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,1540000.0
+Apple,Tech/AI,2021,SCI,Science & Research,1540000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2021,TRD,Trade Policy,1860000.0
+Apple,Tech/AI,2021,TEC,Technology & AI,1860000.0
+Apple,Tech/AI,2021,SCI,Science & Research,1860000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2022,SCI,Science & Research,110000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2022,SCI,Science & Research,2500000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,2500000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2022,SCI,Science & Research,110000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,1900000.0
+Apple,Tech/AI,2022,SCI,Science & Research,1900000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,1900000.0
+Apple,Tech/AI,2022,SCI,Science & Research,2670000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,2670000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,60000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2022,SCI,Science & Research,110000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,1920000.0
+Apple,Tech/AI,2022,SCI,Science & Research,1920000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,1920000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,60000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2022,TEC,Technology & AI,2870000.0
+Apple,Tech/AI,2022,SCI,Science & Research,2870000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,2870000.0
+Apple,Tech/AI,2022,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2022,SCI,Science & Research,110000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,540000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2023,SCI,Science & Research,110000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,2660000.0
+Apple,Tech/AI,2023,SCI,Science & Research,2660000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,2660000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2023,SCI,Science & Research,110000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,2410000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,2410000.0
+Apple,Tech/AI,2023,SCI,Science & Research,2410000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2023,SCI,Science & Research,110000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,1840000.0
+Apple,Tech/AI,2023,SCI,Science & Research,1840000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,1840000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,180000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2023,SCI,Science & Research,110000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,2950000.0
+Apple,Tech/AI,2023,SCI,Science & Research,2950000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,2950000.0
+Apple,Tech/AI,2023,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2023,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2024,SCI,Science & Research,110000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,2130000.0
+Apple,Tech/AI,2024,SCI,Science & Research,2130000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,2130000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2024,SCI,Science & Research,110000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,2130000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,2130000.0
+Apple,Tech/AI,2024,SCI,Science & Research,2130000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2024,SCI,Science & Research,110000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,1900000.0
+Apple,Tech/AI,2024,SCI,Science & Research,1900000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,1900000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2024,SCI,Science & Research,110000.0
+Apple,Tech/AI,2024,TEC,Technology & AI,1660000.0
+Apple,Tech/AI,2024,SCI,Science & Research,1660000.0
+Apple,Tech/AI,2024,TRD,Trade Policy,1660000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,40000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,80000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,2400000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,2400000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,1370000.0
+Qualcomm,Tech/AI,2020,SCI,Science & Research,1370000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,1370000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,50000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,80000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,230000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,50000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,40000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,1970000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,1970000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,1210000.0
+Qualcomm,Tech/AI,2020,SCI,Science & Research,1210000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,1210000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,50000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,80000.0
+Qualcomm,Tech/AI,2020,FOR,Foreign Policy,1710000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,1710000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,1710000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,230000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,1010000.0
+Qualcomm,Tech/AI,2020,SCI,Science & Research,1010000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,1010000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,40000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,230000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,40000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,1860000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,1860000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,50000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,80000.0
+Qualcomm,Tech/AI,2020,TRD,Trade Policy,840000.0
+Qualcomm,Tech/AI,2020,SCI,Science & Research,840000.0
+Qualcomm,Tech/AI,2020,TEC,Technology & AI,840000.0
+Qualcomm,Tech/AI,2021,COM,Commerce & Export Controls,40000.0
+Qualcomm,Tech/AI,2021,TRD,Trade Policy,230000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,50000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,2450000.0
+Qualcomm,Tech/AI,2021,TRD,Trade Policy,2450000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,80000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,1460000.0
+Qualcomm,Tech/AI,2021,SCI,Science & Research,1460000.0
+Qualcomm,Tech/AI,2021,TRD,Trade Policy,1460000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,50000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,40000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,2130000.0
+Qualcomm,Tech/AI,2021,SCI,Science & Research,2130000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,80000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,1410000.0
+Qualcomm,Tech/AI,2021,SCI,Science & Research,1410000.0
+Qualcomm,Tech/AI,2021,TRD,Trade Policy,1410000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,30000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,200000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,2010000.0
+Qualcomm,Tech/AI,2021,SCI,Science & Research,2010000.0
+Qualcomm,Tech/AI,2021,TRD,Trade Policy,2010000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,1510000.0
+Qualcomm,Tech/AI,2021,SCI,Science & Research,1510000.0
+Qualcomm,Tech/AI,2021,TRD,Trade Policy,1510000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,30000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,20000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,50000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,1360000.0
+Qualcomm,Tech/AI,2021,SCI,Science & Research,1360000.0
+Qualcomm,Tech/AI,2021,TRD,Trade Policy,1360000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,2490000.0
+Qualcomm,Tech/AI,2021,SCI,Science & Research,2490000.0
+Qualcomm,Tech/AI,2021,TRD,Trade Policy,2490000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,80000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,1380000.0
+Qualcomm,Tech/AI,2021,SCI,Science & Research,1380000.0
+Qualcomm,Tech/AI,2021,TRD,Trade Policy,1380000.0
+Qualcomm,Tech/AI,2021,TEC,Technology & AI,230000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,230000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,2510000.0
+Qualcomm,Tech/AI,2022,SCI,Science & Research,2510000.0
+Qualcomm,Tech/AI,2022,TRD,Trade Policy,2510000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,90000.0
+Qualcomm,Tech/AI,2022,TRD,Trade Policy,1540000.0
+Qualcomm,Tech/AI,2022,SCI,Science & Research,1540000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,1540000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,2450000.0
+Qualcomm,Tech/AI,2022,SCI,Science & Research,2450000.0
+Qualcomm,Tech/AI,2022,TRD,Trade Policy,2450000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,120000.0
+Qualcomm,Tech/AI,2022,TRD,Trade Policy,1430000.0
+Qualcomm,Tech/AI,2022,SCI,Science & Research,1430000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,1430000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,120000.0
+Qualcomm,Tech/AI,2022,TRD,Trade Policy,1160000.0
+Qualcomm,Tech/AI,2022,SCI,Science & Research,1160000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,1970000.0
+Qualcomm,Tech/AI,2022,SCI,Science & Research,1970000.0
+Qualcomm,Tech/AI,2022,TRD,Trade Policy,1970000.0
+Qualcomm,Tech/AI,2022,DEF,Defense & Military,1970000.0
+Qualcomm,Tech/AI,2022,TRD,Trade Policy,1360000.0
+Qualcomm,Tech/AI,2022,SCI,Science & Research,1360000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,2370000.0
+Qualcomm,Tech/AI,2022,SCI,Science & Research,2370000.0
+Qualcomm,Tech/AI,2022,TRD,Trade Policy,2370000.0
+Qualcomm,Tech/AI,2022,TEC,Technology & AI,140000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,230000.0
+Qualcomm,Tech/AI,2023,TEC,Technology & AI,180000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,790000.0
+Qualcomm,Tech/AI,2023,SCI,Science & Research,790000.0
+Qualcomm,Tech/AI,2023,TEC,Technology & AI,1680000.0
+Qualcomm,Tech/AI,2023,SCI,Science & Research,1680000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,1680000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,230000.0
+Qualcomm,Tech/AI,2023,TEC,Technology & AI,180000.0
+Qualcomm,Tech/AI,2023,TEC,Technology & AI,1770000.0
+Qualcomm,Tech/AI,2023,SCI,Science & Research,1770000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,1770000.0
+Qualcomm,Tech/AI,2023,DEF,Defense & Military,1770000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,970000.0
+Qualcomm,Tech/AI,2023,SCI,Science & Research,970000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,50000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,230000.0
+Qualcomm,Tech/AI,2023,TEC,Technology & AI,1560000.0
+Qualcomm,Tech/AI,2023,SCI,Science & Research,1560000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,1560000.0
+Qualcomm,Tech/AI,2023,DEF,Defense & Military,1560000.0
+Qualcomm,Tech/AI,2023,TEC,Technology & AI,180000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,800000.0
+Qualcomm,Tech/AI,2023,SCI,Science & Research,800000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,50000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,230000.0
+Qualcomm,Tech/AI,2023,TEC,Technology & AI,180000.0
+Qualcomm,Tech/AI,2023,TEC,Technology & AI,2210000.0
+Qualcomm,Tech/AI,2023,SCI,Science & Research,2210000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,2210000.0
+Qualcomm,Tech/AI,2023,DEF,Defense & Military,2210000.0
+Qualcomm,Tech/AI,2023,TRD,Trade Policy,1310000.0
+Qualcomm,Tech/AI,2023,SCI,Science & Research,1310000.0
+Qualcomm,Tech/AI,2024,TEC,Technology & AI,180000.0
+Qualcomm,Tech/AI,2024,TRD,Trade Policy,1230000.0
+Qualcomm,Tech/AI,2024,SCI,Science & Research,1230000.0
+Qualcomm,Tech/AI,2024,TEC,Technology & AI,2040000.0
+Qualcomm,Tech/AI,2024,SCI,Science & Research,2040000.0
+Qualcomm,Tech/AI,2024,TRD,Trade Policy,2040000.0
+Qualcomm,Tech/AI,2024,DEF,Defense & Military,2040000.0
+Qualcomm,Tech/AI,2024,TEC,Technology & AI,1730000.0
+Qualcomm,Tech/AI,2024,SCI,Science & Research,1730000.0
+Qualcomm,Tech/AI,2024,TRD,Trade Policy,1730000.0
+Qualcomm,Tech/AI,2024,DEF,Defense & Military,1730000.0
+Qualcomm,Tech/AI,2024,TEC,Technology & AI,180000.0
+Qualcomm,Tech/AI,2024,TRD,Trade Policy,950000.0
+Qualcomm,Tech/AI,2024,SCI,Science & Research,950000.0
+Qualcomm,Tech/AI,2024,TRD,Trade Policy,1100000.0
+Qualcomm,Tech/AI,2024,SCI,Science & Research,1100000.0
+Qualcomm,Tech/AI,2024,TEC,Technology & AI,1690000.0
+Qualcomm,Tech/AI,2024,SCI,Science & Research,1690000.0
+Qualcomm,Tech/AI,2024,TRD,Trade Policy,1690000.0
+Qualcomm,Tech/AI,2024,TEC,Technology & AI,230000.0
+Qualcomm,Tech/AI,2024,TEC,Technology & AI,180000.0
+Qualcomm,Tech/AI,2024,TRD,Trade Policy,1010000.0
+Qualcomm,Tech/AI,2024,SCI,Science & Research,1010000.0
+Qualcomm,Tech/AI,2024,TEC,Technology & AI,180000.0
+Qualcomm,Tech/AI,2024,TRD,Trade Policy,870000.0
+Qualcomm,Tech/AI,2024,SCI,Science & Research,870000.0
+Qualcomm,Tech/AI,2024,TEC,Technology & AI,1920000.0
+Qualcomm,Tech/AI,2024,SCI,Science & Research,1920000.0
+Qualcomm,Tech/AI,2024,TRD,Trade Policy,1920000.0
+Goldman Sachs,Finance,2020,TRD,Trade Policy,1270000.0
+Goldman Sachs,Finance,2020,TRD,Trade Policy,447000.0
+Goldman Sachs,Finance,2020,TRD,Trade Policy,530000.0
+Goldman Sachs,Finance,2020,TRD,Trade Policy,1090000.0
+Goldman Sachs,Finance,2021,TRD,Trade Policy,1180000.0
+Goldman Sachs,Finance,2021,TRD,Trade Policy,510000.0
+Goldman Sachs,Finance,2021,TRD,Trade Policy,410000.0
+Goldman Sachs,Finance,2021,TRD,Trade Policy,430000.0
+Goldman Sachs,Finance,2022,TRD,Trade Policy,880000.0
+Goldman Sachs,Finance,2022,TRD,Trade Policy,400000.0
+Goldman Sachs,Finance,2022,TRD,Trade Policy,540000.0
+Goldman Sachs,Finance,2022,TRD,Trade Policy,540000.0
+Goldman Sachs,Finance,2023,TRD,Trade Policy,1040000.0
+Goldman Sachs,Finance,2023,TRD,Trade Policy,490000.0
+Goldman Sachs,Finance,2023,TRD,Trade Policy,480000.0
+Goldman Sachs,Finance,2023,TRD,Trade Policy,2680000.0
+Goldman Sachs,Finance,2024,TRD,Trade Policy,990000.0
+Goldman Sachs,Finance,2024,TRD,Trade Policy,470000.0
+Goldman Sachs,Finance,2024,TRD,Trade Policy,570000.0
+Goldman Sachs,Finance,2024,TRD,Trade Policy,710000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,25000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,1670000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,1670000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,1670000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,15000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,1180000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,1180000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,1180000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,1180000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,1180000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,1180000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,7500.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,850000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,850000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,850000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,7500.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,940000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,940000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,940000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,30000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,1690000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,1690000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,1690000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,1190000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,1190000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,1190000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,940000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,940000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,940000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,940000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,940000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,940000.0
+GE Aerospace,Defense/Aerospace,2020,SCI,Science & Research,1010000.0
+GE Aerospace,Defense/Aerospace,2020,TRD,Trade Policy,1010000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,1010000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,15000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2021,SCI,Science & Research,1390000.0
+GE Aerospace,Defense/Aerospace,2021,TRD,Trade Policy,1390000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,1390000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2021,SCI,Science & Research,1390000.0
+GE Aerospace,Defense/Aerospace,2021,TRD,Trade Policy,1390000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,1390000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,15000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,SCI,Science & Research,810000.0
+GE Aerospace,Defense/Aerospace,2021,TRD,Trade Policy,810000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,810000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,15000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2021,SCI,Science & Research,1030000.0
+GE Aerospace,Defense/Aerospace,2021,TRD,Trade Policy,1030000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,1030000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,15000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2021,SCI,Science & Research,940000.0
+GE Aerospace,Defense/Aerospace,2021,TRD,Trade Policy,940000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,940000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,SCI,Science & Research,1390000.0
+GE Aerospace,Defense/Aerospace,2021,TRD,Trade Policy,1390000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,1390000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,SCI,Science & Research,1090000.0
+GE Aerospace,Defense/Aerospace,2022,TRD,Trade Policy,1090000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,1090000.0
+GE Aerospace,Defense/Aerospace,2022,TAR,Tariffs,30000.0
+GE Aerospace,Defense/Aerospace,2022,TRD,Trade Policy,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,TAR,Tariffs,30000.0
+GE Aerospace,Defense/Aerospace,2022,TRD,Trade Policy,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,SCI,Science & Research,850000.0
+GE Aerospace,Defense/Aerospace,2022,TRD,Trade Policy,850000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,850000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,TAR,Tariffs,30000.0
+GE Aerospace,Defense/Aerospace,2022,TRD,Trade Policy,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,SCI,Science & Research,820000.0
+GE Aerospace,Defense/Aerospace,2022,TRD,Trade Policy,820000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,820000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,SCI,Science & Research,1440000.0
+GE Aerospace,Defense/Aerospace,2022,TRD,Trade Policy,1440000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,1440000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,TAR,Tariffs,30000.0
+GE Aerospace,Defense/Aerospace,2022,TRD,Trade Policy,30000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2022,SCI,Science & Research,1450000.0
+GE Aerospace,Defense/Aerospace,2022,TRD,Trade Policy,1450000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,1450000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,SCI,Science & Research,1060000.0
+GE Aerospace,Defense/Aerospace,2023,TRD,Trade Policy,1060000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,1060000.0
+GE Aerospace,Defense/Aerospace,2023,TRD,Trade Policy,30000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,25000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,SCI,Science & Research,790000.0
+GE Aerospace,Defense/Aerospace,2023,TRD,Trade Policy,790000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,790000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,15000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2023,SCI,Science & Research,690000.0
+GE Aerospace,Defense/Aerospace,2023,TRD,Trade Policy,690000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,690000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,15000.0
+GE Aerospace,Defense/Aerospace,2023,SCI,Science & Research,550000.0
+GE Aerospace,Defense/Aerospace,2023,TRD,Trade Policy,550000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,550000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,SCI,Science & Research,1270000.0
+GE Aerospace,Defense/Aerospace,2024,TRD,Trade Policy,1270000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,1270000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,21000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,TRD,Trade Policy,680000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,680000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,21000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,TRD,Trade Policy,730000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,730000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,21000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2024,TRD,Trade Policy,520000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,520000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,21000.0
+GE Aerospace,Defense/Aerospace,2024,TRD,Trade Policy,760000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,760000.0
+GE Aerospace,Defense/Aerospace,2024,TRD,Trade Policy,680000.0
+GE Aerospace,Defense/Aerospace,2024,DEF,Defense & Military,680000.0
+GE Aerospace,Defense/Aerospace,2020,TEC,Technology & AI,180000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,180000.0
+GE Aerospace,Defense/Aerospace,2020,TEC,Technology & AI,40000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2020,TEC,Technology & AI,50000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2020,TEC,Technology & AI,40000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2020,INT,Intelligence & Security,50000.0
+GE Aerospace,Defense/Aerospace,2020,TEC,Technology & AI,50000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2020,TEC,Technology & AI,40000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2020,INT,Intelligence & Security,60000.0
+GE Aerospace,Defense/Aerospace,2020,TEC,Technology & AI,60000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,60000.0
+GE Aerospace,Defense/Aerospace,2020,TEC,Technology & AI,40000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2020,TEC,Technology & AI,190000.0
+GE Aerospace,Defense/Aerospace,2020,DEF,Defense & Military,190000.0
+GE Aerospace,Defense/Aerospace,2021,INT,Intelligence & Security,170000.0
+GE Aerospace,Defense/Aerospace,2021,TEC,Technology & AI,170000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,170000.0
+GE Aerospace,Defense/Aerospace,2021,TEC,Technology & AI,40000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2021,INT,Intelligence & Security,60000.0
+GE Aerospace,Defense/Aerospace,2021,TEC,Technology & AI,60000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+GE Aerospace,Defense/Aerospace,2021,TEC,Technology & AI,30000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+GE Aerospace,Defense/Aerospace,2021,TEC,Technology & AI,70000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,70000.0
+GE Aerospace,Defense/Aerospace,2021,TEC,Technology & AI,40000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2021,TEC,Technology & AI,60000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+GE Aerospace,Defense/Aerospace,2021,TEC,Technology & AI,39000.0
+GE Aerospace,Defense/Aerospace,2021,DEF,Defense & Military,39000.0
+GE Aerospace,Defense/Aerospace,2022,TEC,Technology & AI,160000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,160000.0
+GE Aerospace,Defense/Aerospace,2022,TEC,Technology & AI,39000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,39000.0
+GE Aerospace,Defense/Aerospace,2022,TEC,Technology & AI,40000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2022,TEC,Technology & AI,39000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,39000.0
+GE Aerospace,Defense/Aerospace,2022,TEC,Technology & AI,70000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,70000.0
+GE Aerospace,Defense/Aerospace,2022,TEC,Technology & AI,39000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,39000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,80000.0
+GE Aerospace,Defense/Aerospace,2022,TEC,Technology & AI,39000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,39000.0
+GE Aerospace,Defense/Aerospace,2022,TEC,Technology & AI,39000.0
+GE Aerospace,Defense/Aerospace,2022,DEF,Defense & Military,39000.0
+GE Aerospace,Defense/Aerospace,2023,TEC,Technology & AI,120000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,120000.0
+GE Aerospace,Defense/Aerospace,2023,TEC,Technology & AI,60000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,60000.0
+GE Aerospace,Defense/Aerospace,2023,TEC,Technology & AI,50000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2023,TEC,Technology & AI,50000.0
+GE Aerospace,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,24000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,50000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,10000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,3080000.0
+Boeing,Defense/Aerospace,2020,INT,Intelligence & Security,3080000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,3080000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,3080000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,3080000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,72000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,50000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,SCI,Science & Research,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,70000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,70000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,3180000.0
+Boeing,Defense/Aerospace,2020,INT,Intelligence & Security,3180000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,3180000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,3180000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,3180000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,70000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,70000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,50000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,72000.0
+Boeing,Defense/Aerospace,2020,SCI,Science & Research,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,3030000.0
+Boeing,Defense/Aerospace,2020,INT,Intelligence & Security,3030000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,3030000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,3030000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,3030000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,72000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,70000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,70000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,50000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2020,SCI,Science & Research,110000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,110000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,70000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2020,FOR,Foreign Policy,3340000.0
+Boeing,Defense/Aerospace,2020,INT,Intelligence & Security,3340000.0
+Boeing,Defense/Aerospace,2020,TRD,Trade Policy,3340000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,3340000.0
+Boeing,Defense/Aerospace,2020,AER,Aerospace,3340000.0
+Boeing,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,50000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,12500.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,70000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,70000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2021,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,2780000.0
+Boeing,Defense/Aerospace,2021,INT,Intelligence & Security,2780000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,2780000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,2780000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,2780000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,60000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2021,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,70000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,70000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,3390000.0
+Boeing,Defense/Aerospace,2021,INT,Intelligence & Security,3390000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,3390000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,3390000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,3390000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,70000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,70000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,60000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2021,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,3770000.0
+Boeing,Defense/Aerospace,2021,INT,Intelligence & Security,3770000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,3770000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,3770000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,3770000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,60000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2021,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,10000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,70000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,3420000.0
+Boeing,Defense/Aerospace,2021,INT,Intelligence & Security,3420000.0
+Boeing,Defense/Aerospace,2021,TRD,Trade Policy,3420000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,3420000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,3420000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2021,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2021,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2021,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,80000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,50000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,70000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,10000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,2680000.0
+Boeing,Defense/Aerospace,2022,INT,Intelligence & Security,2680000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,2680000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,2680000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,2680000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,40000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2022,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,70000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,50000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,3230000.0
+Boeing,Defense/Aerospace,2022,INT,Intelligence & Security,3230000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,3230000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,3230000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,3230000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2022,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,50000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,3190000.0
+Boeing,Defense/Aerospace,2022,INT,Intelligence & Security,3190000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,3190000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,3190000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,3190000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,40000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,60000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,50000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,40000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,10000.0
+Boeing,Defense/Aerospace,2022,FOR,Foreign Policy,3950000.0
+Boeing,Defense/Aerospace,2022,INT,Intelligence & Security,3950000.0
+Boeing,Defense/Aerospace,2022,TRD,Trade Policy,3950000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,3950000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,3950000.0
+Boeing,Defense/Aerospace,2022,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2022,SCI,Science & Research,60000.0
+Boeing,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,10000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2023,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,10000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2023,FOR,Foreign Policy,40000.0
+Boeing,Defense/Aerospace,2023,FOR,Foreign Policy,3840000.0
+Boeing,Defense/Aerospace,2023,INT,Intelligence & Security,3840000.0
+Boeing,Defense/Aerospace,2023,TRD,Trade Policy,3840000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,3840000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,3840000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,30000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2023,FOR,Foreign Policy,40000.0
+Boeing,Defense/Aerospace,2023,FOR,Foreign Policy,3560000.0
+Boeing,Defense/Aerospace,2023,INT,Intelligence & Security,3560000.0
+Boeing,Defense/Aerospace,2023,TRD,Trade Policy,3560000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,3560000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,3560000.0
+Boeing,Defense/Aerospace,2023,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2023,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,40000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2023,FOR,Foreign Policy,40000.0
+Boeing,Defense/Aerospace,2023,FOR,Foreign Policy,3240000.0
+Boeing,Defense/Aerospace,2023,INT,Intelligence & Security,3240000.0
+Boeing,Defense/Aerospace,2023,TRD,Trade Policy,3240000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,3240000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,3240000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2023,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2023,FOR,Foreign Policy,40000.0
+Boeing,Defense/Aerospace,2023,FOR,Foreign Policy,3780000.0
+Boeing,Defense/Aerospace,2023,INT,Intelligence & Security,3780000.0
+Boeing,Defense/Aerospace,2023,TRD,Trade Policy,3780000.0
+Boeing,Defense/Aerospace,2023,DEF,Defense & Military,3780000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,3780000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2023,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2024,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2024,FOR,Foreign Policy,40000.0
+Boeing,Defense/Aerospace,2024,FOR,Foreign Policy,2930000.0
+Boeing,Defense/Aerospace,2024,INT,Intelligence & Security,2930000.0
+Boeing,Defense/Aerospace,2024,TRD,Trade Policy,2930000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,2930000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,2930000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,20000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2024,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,10000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,10000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2024,FOR,Foreign Policy,40000.0
+Boeing,Defense/Aerospace,2024,FOR,Foreign Policy,3310000.0
+Boeing,Defense/Aerospace,2024,INT,Intelligence & Security,3310000.0
+Boeing,Defense/Aerospace,2024,TRD,Trade Policy,3310000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,3310000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,3310000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2024,FOR,Foreign Policy,3180000.0
+Boeing,Defense/Aerospace,2024,INT,Intelligence & Security,3180000.0
+Boeing,Defense/Aerospace,2024,TRD,Trade Policy,3180000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,3180000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,3180000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2024,FOR,Foreign Policy,40000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+Boeing,Defense/Aerospace,2024,FOR,Foreign Policy,40000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2024,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,60000.0
+Boeing,Defense/Aerospace,2024,FOR,Foreign Policy,2510000.0
+Boeing,Defense/Aerospace,2024,INT,Intelligence & Security,2510000.0
+Boeing,Defense/Aerospace,2024,TRD,Trade Policy,2510000.0
+Boeing,Defense/Aerospace,2024,DEF,Defense & Military,2510000.0
+Boeing,Defense/Aerospace,2024,AER,Aerospace,2510000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,28493.0
+Lockheed Martin,Defense/Aerospace,2020,FOR,Foreign Policy,28493.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,15000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,15000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,INT,Intelligence & Security,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,45000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,TEC,Technology & AI,3980000.0
+Lockheed Martin,Defense/Aerospace,2020,TRD,Trade Policy,3980000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,3980000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,3980000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,50000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,26211.0
+Lockheed Martin,Defense/Aerospace,2020,FOR,Foreign Policy,26211.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,15000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,15000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,50000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,45000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,INT,Intelligence & Security,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,TEC,Technology & AI,3060000.0
+Lockheed Martin,Defense/Aerospace,2020,SCI,Science & Research,3060000.0
+Lockheed Martin,Defense/Aerospace,2020,TRD,Trade Policy,3060000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,3060000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,22000.0
+Lockheed Martin,Defense/Aerospace,2020,FOR,Foreign Policy,22000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,60000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,INT,Intelligence & Security,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,TEC,Technology & AI,2960000.0
+Lockheed Martin,Defense/Aerospace,2020,TRD,Trade Policy,2960000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,2960000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,2960000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,24106.0
+Lockheed Martin,Defense/Aerospace,2020,FOR,Foreign Policy,24106.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,50000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2020,TEC,Technology & AI,2860000.0
+Lockheed Martin,Defense/Aerospace,2020,TRD,Trade Policy,2860000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,2860000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,2860000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2020,TEC,Technology & AI,2880000.0
+Lockheed Martin,Defense/Aerospace,2020,TRD,Trade Policy,2880000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,2880000.0
+Lockheed Martin,Defense/Aerospace,2020,AER,Aerospace,2880000.0
+Lockheed Martin,Defense/Aerospace,2020,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,27650.0
+Lockheed Martin,Defense/Aerospace,2021,FOR,Foreign Policy,27650.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,TEC,Technology & AI,3780000.0
+Lockheed Martin,Defense/Aerospace,2021,TRD,Trade Policy,3780000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,3780000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,3780000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,29700.0
+Lockheed Martin,Defense/Aerospace,2021,FOR,Foreign Policy,29700.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,TEC,Technology & AI,3630000.0
+Lockheed Martin,Defense/Aerospace,2021,TRD,Trade Policy,3630000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,3630000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,3630000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,90000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30690.0
+Lockheed Martin,Defense/Aerospace,2021,FOR,Foreign Policy,30690.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,70000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,80000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2021,TEC,Technology & AI,3540000.0
+Lockheed Martin,Defense/Aerospace,2021,TRD,Trade Policy,3540000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,3540000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,3540000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,33871.0
+Lockheed Martin,Defense/Aerospace,2021,FOR,Foreign Policy,33871.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,70000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,TEC,Technology & AI,3330000.0
+Lockheed Martin,Defense/Aerospace,2021,SCI,Science & Research,3330000.0
+Lockheed Martin,Defense/Aerospace,2021,TRD,Trade Policy,3330000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,3330000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2021,TEC,Technology & AI,3630000.0
+Lockheed Martin,Defense/Aerospace,2021,TRD,Trade Policy,3630000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,3630000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,3630000.0
+Lockheed Martin,Defense/Aerospace,2021,TEC,Technology & AI,3410000.0
+Lockheed Martin,Defense/Aerospace,2021,TRD,Trade Policy,3410000.0
+Lockheed Martin,Defense/Aerospace,2021,DEF,Defense & Military,3410000.0
+Lockheed Martin,Defense/Aerospace,2021,AER,Aerospace,3410000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,27305.0
+Lockheed Martin,Defense/Aerospace,2022,FOR,Foreign Policy,27305.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,70000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,50000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,TEC,Technology & AI,3290000.0
+Lockheed Martin,Defense/Aerospace,2022,TRD,Trade Policy,3290000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,3290000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,3290000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,28713.0
+Lockheed Martin,Defense/Aerospace,2022,FOR,Foreign Policy,28713.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,10000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,90000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,25000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,50000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,TEC,Technology & AI,3410000.0
+Lockheed Martin,Defense/Aerospace,2022,TRD,Trade Policy,3410000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,3410000.0
+Lockheed Martin,Defense/Aerospace,2022,TEC,Technology & AI,3290000.0
+Lockheed Martin,Defense/Aerospace,2022,TRD,Trade Policy,3290000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,3290000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,3290000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,27227.0
+Lockheed Martin,Defense/Aerospace,2022,FOR,Foreign Policy,27227.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,25000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,70000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,TEC,Technology & AI,3340000.0
+Lockheed Martin,Defense/Aerospace,2022,TRD,Trade Policy,3340000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,3340000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,3340000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30220.0
+Lockheed Martin,Defense/Aerospace,2022,FOR,Foreign Policy,30220.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,TEC,Technology & AI,3450000.0
+Lockheed Martin,Defense/Aerospace,2022,TRD,Trade Policy,3450000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,3450000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,3450000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,25000.0
+Lockheed Martin,Defense/Aerospace,2022,TEC,Technology & AI,3400000.0
+Lockheed Martin,Defense/Aerospace,2022,TRD,Trade Policy,3400000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,3400000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,3400000.0
+Lockheed Martin,Defense/Aerospace,2022,TEC,Technology & AI,3510000.0
+Lockheed Martin,Defense/Aerospace,2022,TRD,Trade Policy,3510000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,3510000.0
+Lockheed Martin,Defense/Aerospace,2022,TEC,Technology & AI,3400000.0
+Lockheed Martin,Defense/Aerospace,2022,TRD,Trade Policy,3400000.0
+Lockheed Martin,Defense/Aerospace,2022,DEF,Defense & Military,3400000.0
+Lockheed Martin,Defense/Aerospace,2022,AER,Aerospace,3400000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,31022.0
+Lockheed Martin,Defense/Aerospace,2023,FOR,Foreign Policy,31022.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,80000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2023,AER,Aerospace,40000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,25000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2023,TRD,Trade Policy,3250000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,3250000.0
+Lockheed Martin,Defense/Aerospace,2023,AER,Aerospace,3250000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,45000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,33215.0
+Lockheed Martin,Defense/Aerospace,2023,FOR,Foreign Policy,33215.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,AER,Aerospace,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,80000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,25000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,TEC,Technology & AI,3680000.0
+Lockheed Martin,Defense/Aerospace,2023,SCI,Science & Research,3680000.0
+Lockheed Martin,Defense/Aerospace,2023,TRD,Trade Policy,3680000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,3680000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,32195.0
+Lockheed Martin,Defense/Aerospace,2023,FOR,Foreign Policy,32195.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,24000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,25000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,AER,Aerospace,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,TEC,Technology & AI,3350000.0
+Lockheed Martin,Defense/Aerospace,2023,TRD,Trade Policy,3350000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,3350000.0
+Lockheed Martin,Defense/Aerospace,2023,AER,Aerospace,3350000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30133.0
+Lockheed Martin,Defense/Aerospace,2023,FOR,Foreign Policy,30133.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,15000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,15000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,24000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,AER,Aerospace,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,TEC,Technology & AI,3660000.0
+Lockheed Martin,Defense/Aerospace,2023,TRD,Trade Policy,3660000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,3660000.0
+Lockheed Martin,Defense/Aerospace,2023,AER,Aerospace,3660000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2023,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,29695.0
+Lockheed Martin,Defense/Aerospace,2024,FOR,Foreign Policy,29695.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,INT,Intelligence & Security,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,16000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,16000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,16000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2024,TEC,Technology & AI,3270000.0
+Lockheed Martin,Defense/Aerospace,2024,TRD,Trade Policy,3270000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,3270000.0
+Lockheed Martin,Defense/Aerospace,2024,AER,Aerospace,3270000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,34310.0
+Lockheed Martin,Defense/Aerospace,2024,FOR,Foreign Policy,34310.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,INT,Intelligence & Security,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,16000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,TEC,Technology & AI,3100000.0
+Lockheed Martin,Defense/Aerospace,2024,TRD,Trade Policy,3100000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,3100000.0
+Lockheed Martin,Defense/Aerospace,2024,AER,Aerospace,3100000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,34935.0
+Lockheed Martin,Defense/Aerospace,2024,FOR,Foreign Policy,34935.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,40000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,INT,Intelligence & Security,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,TEC,Technology & AI,3040000.0
+Lockheed Martin,Defense/Aerospace,2024,TRD,Trade Policy,3040000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,3040000.0
+Lockheed Martin,Defense/Aerospace,2024,AER,Aerospace,3040000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30224.0
+Lockheed Martin,Defense/Aerospace,2024,FOR,Foreign Policy,30224.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,INT,Intelligence & Security,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2024,FOR,Foreign Policy,20000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2024,TEC,Technology & AI,2980000.0
+Lockheed Martin,Defense/Aerospace,2024,TRD,Trade Policy,2980000.0
+Lockheed Martin,Defense/Aerospace,2024,DEF,Defense & Military,2980000.0
+Lockheed Martin,Defense/Aerospace,2024,AER,Aerospace,2980000.0
+JPMorgan Chase,Finance,2020,TRD,Trade Policy,710000.0
+JPMorgan Chase,Finance,2020,TRD,Trade Policy,750000.0
+JPMorgan Chase,Finance,2020,TRD,Trade Policy,690000.0
+JPMorgan Chase,Finance,2020,TRD,Trade Policy,660000.0
+Google,Tech/AI,2025,TEC,Technology & AI,45000.0
+Google,Tech/AI,2025,SCI,Science & Research,45000.0
+Google,Tech/AI,2025,TRD,Trade Policy,70000.0
+Google,Tech/AI,2025,TRD,Trade Policy,60000.0
+Google,Tech/AI,2025,SCI,Science & Research,60000.0
+Google,Tech/AI,2025,TEC,Technology & AI,60000.0
+Google,Tech/AI,2025,FOR,Foreign Policy,3010000.0
+Google,Tech/AI,2025,DEF,Defense & Military,3010000.0
+Google,Tech/AI,2025,TRD,Trade Policy,3010000.0
+Google,Tech/AI,2025,SCI,Science & Research,3010000.0
+Google,Tech/AI,2025,TEC,Technology & AI,3010000.0
+Google,Tech/AI,2025,TRD,Trade Policy,45000.0
+Google,Tech/AI,2025,SCI,Science & Research,45000.0
+Google,Tech/AI,2025,TEC,Technology & AI,45000.0
+Google,Tech/AI,2025,TEC,Technology & AI,45000.0
+Google,Tech/AI,2025,SCI,Science & Research,45000.0
+Google,Tech/AI,2025,TRD,Trade Policy,70000.0
+Google,Tech/AI,2025,TRD,Trade Policy,60000.0
+Google,Tech/AI,2025,SCI,Science & Research,60000.0
+Google,Tech/AI,2025,TEC,Technology & AI,60000.0
+Google,Tech/AI,2025,FOR,Foreign Policy,3170000.0
+Google,Tech/AI,2025,DEF,Defense & Military,3170000.0
+Google,Tech/AI,2025,TRD,Trade Policy,3170000.0
+Google,Tech/AI,2025,SCI,Science & Research,3170000.0
+Google,Tech/AI,2025,TEC,Technology & AI,3170000.0
+Google,Tech/AI,2025,TRD,Trade Policy,45000.0
+Google,Tech/AI,2025,SCI,Science & Research,45000.0
+Google,Tech/AI,2025,TEC,Technology & AI,45000.0
+Google,Tech/AI,2025,TEC,Technology & AI,60000.0
+Google,Tech/AI,2025,TEC,Technology & AI,45000.0
+Google,Tech/AI,2025,SCI,Science & Research,45000.0
+Google,Tech/AI,2025,TRD,Trade Policy,60000.0
+Google,Tech/AI,2025,SCI,Science & Research,60000.0
+Google,Tech/AI,2025,FOR,Foreign Policy,3570000.0
+Google,Tech/AI,2025,DEF,Defense & Military,3570000.0
+Google,Tech/AI,2025,TRD,Trade Policy,3570000.0
+Google,Tech/AI,2025,SCI,Science & Research,3570000.0
+Google,Tech/AI,2025,TEC,Technology & AI,3570000.0
+Google,Tech/AI,2025,TRD,Trade Policy,70000.0
+Google,Tech/AI,2025,TRD,Trade Policy,45000.0
+Google,Tech/AI,2025,SCI,Science & Research,45000.0
+Google,Tech/AI,2025,TEC,Technology & AI,45000.0
+Google,Tech/AI,2025,SCI,Science & Research,45000.0
+Google,Tech/AI,2025,TEC,Technology & AI,45000.0
+Google,Tech/AI,2025,TRD,Trade Policy,60000.0
+Google,Tech/AI,2025,SCI,Science & Research,60000.0
+Google,Tech/AI,2025,SCI,Science & Research,45000.0
+Google,Tech/AI,2025,TEC,Technology & AI,45000.0
+Google,Tech/AI,2025,TEC,Technology & AI,60000.0
+Google,Tech/AI,2025,INT,Intelligence & Security,3350000.0
+Google,Tech/AI,2025,FOR,Foreign Policy,3350000.0
+Google,Tech/AI,2025,TRD,Trade Policy,3350000.0
+Google,Tech/AI,2025,SCI,Science & Research,3350000.0
+Google,Tech/AI,2025,TEC,Technology & AI,3350000.0
+Google,Tech/AI,2025,DEF,Defense & Military,3350000.0
+Google,Tech/AI,2025,TRD,Trade Policy,70000.0
+Google,Tech/AI,2025,TRD,Trade Policy,45000.0
+Google,Tech/AI,2025,SCI,Science & Research,45000.0
+Google,Tech/AI,2025,TEC,Technology & AI,45000.0
+Microsoft,Tech/AI,2025,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2025,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2025,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,10000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2025,DEF,Defense & Military,2350000.0
+Microsoft,Tech/AI,2025,TRD,Trade Policy,2350000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,2350000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,2350000.0
+Microsoft,Tech/AI,2025,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,10000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,10000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2025,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2025,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2025,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2025,DEF,Defense & Military,2570000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,2570000.0
+Microsoft,Tech/AI,2025,TRD,Trade Policy,2570000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,2570000.0
+Microsoft,Tech/AI,2025,COM,Commerce & Export Controls,50000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,50000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2025,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2025,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,90000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2025,DEF,Defense & Military,2020000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,2020000.0
+Microsoft,Tech/AI,2025,TRD,Trade Policy,2020000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,2020000.0
+Microsoft,Tech/AI,2025,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2025,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,50000.0
+Microsoft,Tech/AI,2025,INT,Intelligence & Security,50000.0
+Microsoft,Tech/AI,2025,TRD,Trade Policy,30000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,30000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,90000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,90000.0
+Microsoft,Tech/AI,2025,COM,Commerce & Export Controls,90000.0
+Microsoft,Tech/AI,2025,DEF,Defense & Military,90000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,60000.0
+Microsoft,Tech/AI,2025,DEF,Defense & Military,2420000.0
+Microsoft,Tech/AI,2025,TRD,Trade Policy,2420000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,2420000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,2420000.0
+Microsoft,Tech/AI,2025,SCI,Science & Research,60000.0
+Microsoft,Tech/AI,2025,COM,Commerce & Export Controls,60000.0
+Microsoft,Tech/AI,2025,TEC,Technology & AI,60000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,940000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,940000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,620000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,620000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,50000.0
+NVIDIA,Tech/AI,2025,SCI,Science & Research,50000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,40000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,1900000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,1900000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2025,SCI,Science & Research,80000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,80000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,80000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,1950000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,1950000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,1440000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,1440000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,120000.0
+NVIDIA,Tech/AI,2025,DEF,Defense & Military,1460000.0
+NVIDIA,Tech/AI,2025,TRD,Trade Policy,1460000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,2450000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,2450000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,180000.0
+Apple,Tech/AI,2025,SCI,Science & Research,180000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,180000.0
+Apple,Tech/AI,2025,SCI,Science & Research,180000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,2290000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,2290000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,90000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,180000.0
+Apple,Tech/AI,2025,SCI,Science & Research,180000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,2530000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,2530000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,110000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,40000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,40000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,60000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,90000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,180000.0
+Apple,Tech/AI,2025,SCI,Science & Research,180000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,2730000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,2730000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,2330000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,2330000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,2790000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,2790000.0
+Apple,Tech/AI,2025,TRD,Trade Policy,2840000.0
+Apple,Tech/AI,2025,TEC,Technology & AI,2840000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,40000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,240000.0
+Qualcomm,Tech/AI,2025,TRD,Trade Policy,230000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,230000.0
+Qualcomm,Tech/AI,2025,TRD,Trade Policy,680000.0
+Qualcomm,Tech/AI,2025,SCI,Science & Research,680000.0
+Qualcomm,Tech/AI,2025,TRD,Trade Policy,1720000.0
+Qualcomm,Tech/AI,2025,SCI,Science & Research,1720000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,1720000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,90000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,240000.0
+Qualcomm,Tech/AI,2025,TRD,Trade Policy,1450000.0
+Qualcomm,Tech/AI,2025,SCI,Science & Research,1450000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,1450000.0
+Qualcomm,Tech/AI,2025,TRD,Trade Policy,500000.0
+Qualcomm,Tech/AI,2025,SCI,Science & Research,500000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,90000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,240000.0
+Qualcomm,Tech/AI,2025,TRD,Trade Policy,570000.0
+Qualcomm,Tech/AI,2025,SCI,Science & Research,570000.0
+Qualcomm,Tech/AI,2025,TRD,Trade Policy,1590000.0
+Qualcomm,Tech/AI,2025,SCI,Science & Research,1590000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,1590000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,90000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,240000.0
+Qualcomm,Tech/AI,2025,TRD,Trade Policy,500000.0
+Qualcomm,Tech/AI,2025,SCI,Science & Research,500000.0
+Qualcomm,Tech/AI,2025,TRD,Trade Policy,1770000.0
+Qualcomm,Tech/AI,2025,SCI,Science & Research,1770000.0
+Qualcomm,Tech/AI,2025,TEC,Technology & AI,1770000.0
+Goldman Sachs,Finance,2025,TRD,Trade Policy,1100000.0
+Goldman Sachs,Finance,2025,TRD,Trade Policy,560000.0
+Goldman Sachs,Finance,2025,TRD,Trade Policy,640000.0
+Goldman Sachs,Finance,2025,TRD,Trade Policy,1660000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,1000000.0
+GE Aerospace,Defense/Aerospace,2025,TRD,Trade Policy,1000000.0
+GE Aerospace,Defense/Aerospace,2025,AER,Aerospace,1000000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,70000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,21000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,1050000.0
+GE Aerospace,Defense/Aerospace,2025,TRD,Trade Policy,1050000.0
+GE Aerospace,Defense/Aerospace,2025,AER,Aerospace,1050000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,70000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,40000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,21000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,800000.0
+GE Aerospace,Defense/Aerospace,2025,TRD,Trade Policy,800000.0
+GE Aerospace,Defense/Aerospace,2025,AER,Aerospace,800000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,60000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,21000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,720000.0
+GE Aerospace,Defense/Aerospace,2025,TRD,Trade Policy,720000.0
+GE Aerospace,Defense/Aerospace,2025,AER,Aerospace,720000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,10000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,21000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,1500000.0
+GE Aerospace,Defense/Aerospace,2025,TRD,Trade Policy,1500000.0
+GE Aerospace,Defense/Aerospace,2025,AER,Aerospace,1500000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+GE Aerospace,Defense/Aerospace,2025,TEC,Technology & AI,80000.0
+GE Aerospace,Defense/Aerospace,2025,DEF,Defense & Military,240000.0
+GE Aerospace,Defense/Aerospace,2025,TEC,Technology & AI,240000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,110000.0
+Boeing,Defense/Aerospace,2025,FOR,Foreign Policy,2620000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,2620000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,2620000.0
+Boeing,Defense/Aerospace,2025,INT,Intelligence & Security,2620000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,2620000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2025,INT,Intelligence & Security,30000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,80000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,90000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2025,FOR,Foreign Policy,3260000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,3260000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,3260000.0
+Boeing,Defense/Aerospace,2025,INT,Intelligence & Security,3260000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,3260000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,80000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2025,INT,Intelligence & Security,30000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2025,FOR,Foreign Policy,2570000.0
+Boeing,Defense/Aerospace,2025,TAR,Tariffs,2570000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,2570000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,2570000.0
+Boeing,Defense/Aerospace,2025,INT,Intelligence & Security,2570000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,2570000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Boeing,Defense/Aerospace,2025,INT,Intelligence & Security,30000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,20000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,80000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,80000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,50000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,60000.0
+Boeing,Defense/Aerospace,2025,FOR,Foreign Policy,2890000.0
+Boeing,Defense/Aerospace,2025,TAR,Tariffs,2890000.0
+Boeing,Defense/Aerospace,2025,DEF,Defense & Military,2890000.0
+Boeing,Defense/Aerospace,2025,TRD,Trade Policy,2890000.0
+Boeing,Defense/Aerospace,2025,INT,Intelligence & Security,2890000.0
+Boeing,Defense/Aerospace,2025,AER,Aerospace,2890000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,INT,Intelligence & Security,30000.0
+Lockheed Martin,Defense/Aerospace,2025,FOR,Foreign Policy,30865.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30865.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,3610000.0
+Lockheed Martin,Defense/Aerospace,2025,TRD,Trade Policy,3610000.0
+Lockheed Martin,Defense/Aerospace,2025,TEC,Technology & AI,3610000.0
+Lockheed Martin,Defense/Aerospace,2025,AER,Aerospace,3610000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2025,FOR,Foreign Policy,20000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,FOR,Foreign Policy,32825.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,32825.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2025,FOR,Foreign Policy,20000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,INT,Intelligence & Security,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,3890000.0
+Lockheed Martin,Defense/Aerospace,2025,TRD,Trade Policy,3890000.0
+Lockheed Martin,Defense/Aerospace,2025,INT,Intelligence & Security,3890000.0
+Lockheed Martin,Defense/Aerospace,2025,AER,Aerospace,3890000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,3890000.0
+Lockheed Martin,Defense/Aerospace,2025,TRD,Trade Policy,3890000.0
+Lockheed Martin,Defense/Aerospace,2025,INT,Intelligence & Security,3890000.0
+Lockheed Martin,Defense/Aerospace,2025,AER,Aerospace,3890000.0
+Lockheed Martin,Defense/Aerospace,2025,FOR,Foreign Policy,31415.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,31415.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2025,FOR,Foreign Policy,20000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,INT,Intelligence & Security,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,4140000.0
+Lockheed Martin,Defense/Aerospace,2025,TRD,Trade Policy,4140000.0
+Lockheed Martin,Defense/Aerospace,2025,INT,Intelligence & Security,4140000.0
+Lockheed Martin,Defense/Aerospace,2025,AER,Aerospace,4140000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,60000.0
+Lockheed Martin,Defense/Aerospace,2025,INT,Intelligence & Security,60000.0
+Lockheed Martin,Defense/Aerospace,2025,FOR,Foreign Policy,31804.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,31804.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,20000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,80000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,30000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,3910000.0
+Lockheed Martin,Defense/Aerospace,2025,TRD,Trade Policy,3910000.0
+Lockheed Martin,Defense/Aerospace,2025,TEC,Technology & AI,3910000.0
+Lockheed Martin,Defense/Aerospace,2025,AER,Aerospace,3910000.0
+Lockheed Martin,Defense/Aerospace,2025,INT,Intelligence & Security,3910000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
+Lockheed Martin,Defense/Aerospace,2025,DEF,Defense & Military,50000.0
